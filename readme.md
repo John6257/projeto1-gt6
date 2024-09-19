@@ -1,4 +1,3 @@
-# markdown
+# projeto 1 - site HTML e CSS
 
-projeto 1 - site HTML e CSS.
-site desenvolvido usando HTML e CSS.
+site desenvolvido por HTML e CSS, com flexbox e Grid.
